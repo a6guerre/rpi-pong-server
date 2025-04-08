@@ -14,7 +14,7 @@ g++
 
 ## Pulling RPI Pong Client and Flatbuffers submodule
 ```bash
-git clone --recurse-submodule https://github.com/a6guerre/rpi-pong-server.git
+git clone --recurse-submodule https://github.com/maxtek6/rpi-pong-server.git
 cd rpi-pong-server
 cd external/flatbuffers
 git checkout v24.3.25
