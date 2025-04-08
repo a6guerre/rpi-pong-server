@@ -1,0 +1,3 @@
+build/
+*.swp
+pongdata_generated.h
